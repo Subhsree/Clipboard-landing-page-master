@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-3-FocjR-MV)]
-- Live Site URL: [(https://subhsree.github.io/Clipboard-landing-page-master/)]
+- Solution URL: []
+- Live Site URL: []
 
 ## My process
 
