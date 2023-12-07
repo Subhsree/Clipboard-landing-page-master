@@ -61,7 +61,7 @@ header{
     text-align: center;
     height: 100vh;
     max-width:100vw;
-    background-image: url('/images/bg-header-desktop.png');
+    background-image: url('images/bg-header-desktop.png');
     background-position: top;
     background-repeat: no-repeat;
 }
